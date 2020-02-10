@@ -1,0 +1,17 @@
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\Services.dll
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\Services.pdb
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\Repository.dll
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\EntityFramework.dll
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\Repository.pdb
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\Repository.dll.config
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\EntityFramework.xml
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\obj\Debug\Services.csprojAssemblyReference.cache
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\obj\Debug\Services.csproj.CopyComplete
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\obj\Debug\Services.dll
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\obj\Debug\Services.pdb
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\Services.dll.config
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\AutoMapper.dll
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\AutoMapper.pdb
+D:\O_CUNG_CUA_PHAT\ASP .NET\Web API\Learn_WebAPI_Repository_Pattern\Services\bin\Debug\AutoMapper.xml
